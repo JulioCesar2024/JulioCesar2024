@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JulioCesar2024
 - 👀 I’m interested in work in the area of programing or information security.
 - 🌱 I’m currently learning of, fundamentals of Big Data and Data Anlystics whith Python.
-- 💞️ I’m looking to collaborate on leanr and help.
+- 💞️ I’m looking to collaborate on learn and help.
 - 📫 How to reach me, mizaelj27@yahoo.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
